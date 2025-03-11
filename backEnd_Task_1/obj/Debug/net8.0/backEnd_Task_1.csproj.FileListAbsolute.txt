@@ -1,0 +1,14 @@
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\bin\Debug\net8.0\backEnd_Task_1.exe
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\bin\Debug\net8.0\backEnd_Task_1.deps.json
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\bin\Debug\net8.0\backEnd_Task_1.runtimeconfig.json
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\bin\Debug\net8.0\backEnd_Task_1.dll
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\bin\Debug\net8.0\backEnd_Task_1.pdb
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.AssemblyInfo.cs
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.dll
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\refint\backEnd_Task_1.dll
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.pdb
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\backEnd_Task_1.genruntimeconfig.cache
+C:\Users\Emin\Desktop\backEnd Task 1\backEnd_Task_1\backEnd_Task_1\obj\Debug\net8.0\ref\backEnd_Task_1.dll
